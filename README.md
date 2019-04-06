@@ -1,4 +1,4 @@
-## This repo is a sandbox to test [Issue-Label Bot](https://github.com/apps/issue-label-bot)
+## This repo is a sandbox to test [Issue-Label Bot](https://github.com/hamelsmu/MLapp)
 
 This repo contains [test issues that have been auto-labeled](https://github.com/hamelsmu/Issue-Label-Bot-Examples/issues) by [Issue-Label Bot](https://github.com/apps/issue-label-bot).  Feel free to create new issues and try for yourself, or better yet head over to the [installation page](https://github.com/apps/issue-label-bot) and install this bot in your own repos.
 
